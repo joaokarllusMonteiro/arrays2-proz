@@ -1,0 +1,5 @@
+qtd_elementos = len(lista_musicos)
+print(qtd_elementos)
+print(lista_musicos[2])
+print(lista_musicos[9])
+print(lista_musicos[14])
